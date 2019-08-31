@@ -120,10 +120,10 @@ header {
     font-size: 1.5rem;
   }
   .cd-dropdown-trigger.dropdown-is-active {
-    background-color: #3f8654;
+    background-color: #a12712;
   }
   .no-touch .cd-dropdown-trigger.dropdown-is-active:hover {
-    background-color: #47975f;
+    background-color: #a12712;
   }
   .cd-dropdown-trigger.dropdown-is-active::before, .cd-dropdown-trigger.dropdown-is-active::after {
     /* transform the arrow into a 'X' */
